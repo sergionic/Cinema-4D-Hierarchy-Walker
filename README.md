@@ -10,7 +10,6 @@ Just copy *.py - scripts and corresponding *.tif files to user's scripts folder
 
 
 It usualy situated somewhere like `C:\Users\User\AppData\Roaming\Maxon\Cinema 4D R24_210379A5\library\scripts\`
-You can fnd 
 
 
 ### Using
