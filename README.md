@@ -15,5 +15,5 @@ It usualy situated somewhere like `C:\Users\User\AppData\Roaming\Maxon\Cinema 4D
 ### Using
 
 
-![Using!] (https://github.com/sergionic/Cinema-4D-Hierarchy-Walker/blob/main/vid_sample_1_vid.gif)
+![Using](https://github.com/sergionic/Cinema-4D-Hierarchy-Walker/blob/main/vid_sample_1_vid.gif)
 
